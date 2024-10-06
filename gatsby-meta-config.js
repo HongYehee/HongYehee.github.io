@@ -44,7 +44,7 @@ module.exports = {
       // ========================================================
       {
         date: '2019.03 - 2024.08',
-        activity: '한양대학교 ERICA 컴퓨터학부 졸업',
+        activity: '한양대학교 ERICA 컴퓨터학부 | 졸업',
         links: {
           post: '',
           github: '',
@@ -53,7 +53,16 @@ module.exports = {
       },
       {
         date: '2023.09 - 2024.02',
-        activity: '한국전력연구원 디지털솔루션연구소 인턴',
+        activity: '한국전력연구원 디지털솔루션연구소 | 인턴',
+        links: {
+          post: '',
+          github: '',
+          demo: '',
+        },
+      },
+      {
+        date: '2023.07 - 2024.08',
+        activity: '앨런 Swift 문법 마스터 스쿨 | 수료',
         links: {
           post: '',
           github: '',
@@ -62,7 +71,7 @@ module.exports = {
       },
       {
         date: '2024.09 - 현재',
-        activity: '한국한의학연구원 한의약데이터부 인턴',
+        activity: '한국한의학연구원 한의약데이터부 | 인턴',
         links: {
           post: '',
           github: '',

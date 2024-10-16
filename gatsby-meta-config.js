@@ -61,7 +61,7 @@ module.exports = {
         },
       },
       {
-        date: '2023.07 - 2024.08',
+        date: '2024.07 - 2024.08',
         activity: '앨런 Swift 문법 마스터 스쿨 | 수료',
         links: {
           post: '',
